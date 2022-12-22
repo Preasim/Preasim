@@ -24,5 +24,5 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<p><a href="https://preasim.github.io/"><img alt="Github" src="https://user-images.githubusercontent.com/77485397/208672912-d428742f-b28b-43d2-a678-e44bda19cce0.png" /></a> 
+<p><a href="https://preasim.github.io/"><img width="20px" alt="Github" src="https://user-images.githubusercontent.com/77485397/208672912-d428742f-b28b-43d2-a678-e44bda19cce0.png" /></a> 
 </p>

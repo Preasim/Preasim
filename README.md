@@ -24,5 +24,4 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://www.instagram.com/pes_ing.0/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>

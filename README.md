@@ -24,7 +24,5 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
-<p><a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />Demuu Blog</a>
-
+<p><a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <p><a href="https://discord.gg/JzPKxJcdpe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>

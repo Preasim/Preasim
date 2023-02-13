@@ -43,6 +43,4 @@
 
 
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preasim&show_icons=true&theme=buefy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preasim&layout=compact&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preasim&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preasim&layout=compact&theme=buefy)

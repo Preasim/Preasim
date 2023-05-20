@@ -3,7 +3,9 @@
 <p>I am Demuu who is interested in Web Developer from south korea.</p>
 <p>if you want to contact me, please leave me a message!</p>
 
-<h3>Things I code with</h3>
+<br>
+
+<h3>Things I study code with</h3>
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />

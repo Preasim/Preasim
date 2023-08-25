@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Welcome to my world!</h1>
 
-<p>I am Demuu who is interested in Web Developer from south korea.</p>
-<p>if you want to contact me, please leave me a message!</p>
+<p>I am Demuu, an individual interested in becoming a Web Developer from South Korea.</p>
+<p>If you wish to get in touch, please feel free to leave me a message!"</p>
 
 <br>
 

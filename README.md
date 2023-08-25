@@ -27,7 +27,7 @@
     <img alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
     <img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>

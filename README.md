@@ -36,7 +36,7 @@
 
 <br>
 
-<p align="center" style="margin: 64px 0 34px 0"><img src="https://github.com/Preasim/myImg/assets/77485397/ff4a4bad-284a-4a4d-9ee5-b193e02f4782"></p>
+<p align="center" style="margin: 64px 0 34px 0"><img src="https://github.com/Preasim/myImg/assets/77485397/042641a6-d43d-4f9c-adcd-09871dda5abd"></p>
 
 <br>
     

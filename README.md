@@ -35,6 +35,10 @@
 <div align="center">
 
 <br>
+
+<p align="center" style="margin: 64px 0 34px 0"><img src="https://github.com/Preasim/myImg/assets/77485397/ff4a4bad-284a-4a4d-9ee5-b193e02f4782"></p>
+
+<br>
     
 <h3>Where to find me</h3>
 <a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>

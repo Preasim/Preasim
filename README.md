@@ -6,9 +6,7 @@
 <br>
 
 <h3>Things I study code with</h3>
-<div style="item">
-    <img src="https://github.com/Preasim/myImg/assets/77485397/7c4f6631-e6f7-4774-a885-3bd00598263f" alt="" class="item-img">
-</div>
+<img src="https://github.com/Preasim/myImg/assets/77485397/0ed97660-4908-455c-a487-28ca963866dd">
 
 <div align="center">
 
@@ -30,25 +28,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preasim&layout=compact&theme=buefy)
     
 </div>
-
-<style type='text/css'>
-    [class*="item"] { 
-        position: relative;
-        width: 90px;
-        height: 90px;
-        border-radius: 50%;
-        text-align: center;
-        box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
-        display: inline-block;
-        margin: 24px 12px 0 12px;
-        overflow: hidden;
-    }
-    [class*="item-img"] { 
-        position: absolute;
-        width: 80%;
-        height: auto;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-</style>

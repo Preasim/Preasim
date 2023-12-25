@@ -6,8 +6,8 @@
 <br>
 
 <h3>Things I study code with</h3>
-<div style="position: relative; width: 80px; height: 80px; border-radius: 50%; box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2); margin: 24px 12px 0 12px; display: inline-block; overflow: hidden;">
-    <img src="https://github.com/Preasim/myImg/assets/77485397/7c4f6631-e6f7-4774-a885-3bd00598263f" alt="" style="position: absolute; width: 80%; height: auto; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+<div style="item">
+    <img src="https://github.com/Preasim/myImg/assets/77485397/7c4f6631-e6f7-4774-a885-3bd00598263f" alt="" class="item-img">
 </div>
 
 <div align="center">
@@ -31,3 +31,24 @@
     
 </div>
 
+<style type='text/css'>
+    [class*="item"] { 
+        position: relative;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        text-align: center;
+        box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+        display: inline-block;
+        margin: 24px 12px 0 12px;
+        overflow: hidden;
+    }
+    [class*="item-img"] { 
+        position: absolute;
+        width: 80%;
+        height: auto;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>

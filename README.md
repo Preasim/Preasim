@@ -6,10 +6,10 @@
 <br>
 
 <h3>Things I study code with</h3>
-<img src="https://github.com/Preasim/myImg/assets/77485397/c140d08e-5c8b-48ef-8626-eba77a5f982b">
-<img src="https://github.com/Preasim/myImg/assets/77485397/8c0388ff-7e0f-45d4-9866-32527fba4a13">
-<img src="https://github.com/Preasim/myImg/assets/77485397/9da71f18-8aac-4fa0-b765-dd3d9bcd3c82">
-<img src="https://github.com/Preasim/myImg/assets/77485397/8e1fd254-438f-446f-9376-d747403fd21f">
+<img src="https://github.com/Preasim/myImg/assets/77485397/c140d08e-5c8b-48ef-8626-eba77a5f982b" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/8c0388ff-7e0f-45d4-9866-32527fba4a13" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/9da71f18-8aac-4fa0-b765-dd3d9bcd3c82" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/8e1fd254-438f-446f-9376-d747403fd21f" style="width: 60px;">
 <img src="">
 <img src="">
 <img src="">

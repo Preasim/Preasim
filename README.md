@@ -6,7 +6,7 @@
 <br>
 
 <h3>Things I study code with</h3>
-<img src="https://github.com/Preasim/myImg/assets/77485397/7c4f6631-e6f7-4774-a885-3bd00598263f" style="width: 80px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/7c4f6631-e6f7-4774-a885-3bd00598263f" style="width: 60px;">
 
 <div align="center">
 

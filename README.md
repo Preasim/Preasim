@@ -6,14 +6,20 @@
 <br>
 
 <h3>Things I study code with</h3>
-<img src="https://github.com/Preasim/myImg/assets/77485397/c140d08e-5c8b-48ef-8626-eba77a5f982b" style="width: 60px;">
-<img src="https://github.com/Preasim/myImg/assets/77485397/8c0388ff-7e0f-45d4-9866-32527fba4a13" style="width: 60px;">
-<img src="https://github.com/Preasim/myImg/assets/77485397/9da71f18-8aac-4fa0-b765-dd3d9bcd3c82" style="width: 60px;">
-<img src="https://github.com/Preasim/myImg/assets/77485397/8e1fd254-438f-446f-9376-d747403fd21f" style="width: 60px;">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/Preasim/myImg/assets/77485397/bec6aaf9-e18d-4b1a-b8b2-35cde4ec19f9" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/d7bbbbe4-8de9-4904-a46c-71e39290b592" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/951be00f-54f4-4380-a3e4-8eafd5eb677e" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/21bffdd8-619c-4abc-9861-95694ee330bc" style="width: 60px;">
+<img src="https://github.com/Preasim/myImg/assets/77485397/fef9927d-5f7f-4451-8b1e-81ff2a3e9d73" style="width: 60px;">
+
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
+<img src="" style="width: 60px;">
 
 <div align="center">
 

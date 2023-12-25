@@ -5,7 +5,7 @@
 
 <br>
 
-<center><h3>Things I study code with</h3></center>
+<center>Things I study code with</center>
 <p align="center">
 <img src="https://github.com/Preasim/myImg/assets/77485397/bec6aaf9-e18d-4b1a-b8b2-35cde4ec19f9" style="width: 60px;">
 <img src="https://github.com/Preasim/myImg/assets/77485397/d7bbbbe4-8de9-4904-a46c-71e39290b592" style="width: 60px;">

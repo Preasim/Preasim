@@ -40,7 +40,6 @@
 <br>
     
 <h3>Where to find me</h3>
-<a href="https://github.com/Preasim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="http://demuu.dothome.co.kr/main-page/index.html" target="_blank"><img alt="Demuu" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://discord.gg/6HMM5JxzJN" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
     
